@@ -1,7 +1,12 @@
 Suddenly a Bear - S01E01: Pilot
 ===============================
 
-(cold opening)
+Authors:  
+Daniel Mladensich  
+Patrick Mladensich  
+
+
+*(cold opening)*
 
 - A man.
 - A banana.
@@ -34,3 +39,21 @@ Mephisto: You will have a fever.
 Man: I refuse.  
 
 *The man would rather be late than fever. He is then suddenly attacked by a bear.*
+
+
+### Scene 3: "Lawsuit 2000"
+
+*A silly looking girl wearing a shirt with a cat on it and bangs and glasses files a complaint.*
+
+Cat girl: I would like to file a complaint. 
+
+*Homer Simpson walks in.*
+
+Homer Simpson: Rawr.
+
+*Homer Simpson was actually a bear.*
+
+*(cut to credits)*
+
+
+**End of series.**
